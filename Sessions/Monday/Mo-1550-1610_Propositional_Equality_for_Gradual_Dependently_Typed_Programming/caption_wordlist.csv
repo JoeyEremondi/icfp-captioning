@@ -21,8 +21,18 @@ quicksort,,Common sorting algorithm,,Common-term sorting algorithm
 canonicity,,,,
 inductive,,,,Common-term
 graduality,,,,
-Flist,,Fixed-length lists,,
+FList,Eff-list,Fixed-length lists,,
 extensionality,,,,Common-term
 metatheory,,,,Common-term
 monotone,,,,Common-term
 monotonicity,,,,Common-term
+consistency,,,,Common-term
+precision,,,,Common-term
+threesome,,,,Common-term
+threesomes,,,,Common-term
+middle type,,,,Common-term
+witness,,,,Common-term
+witness of consistency,,,,Common-term
+dependent types,,,,Common-term
+dependent pair,,,,Common-term
+assertion,,,,Common-term
